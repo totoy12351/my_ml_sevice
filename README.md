@@ -1,2 +1,2 @@
 # JosuaBalauro
-For educational purpose.
+Machine Learning Web Service
